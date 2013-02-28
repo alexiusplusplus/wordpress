@@ -1,0 +1,12 @@
+*** thememagic Changelog ***
+
+10-15-2012 - version 1.4.5
+ * New option added to add Fav Icon.
+
+10-7-2012 - version 1.4.1
+ * Options panel updated.
+ * template-blog.php file added.
+ * front-page.php file added.
+ * Other small style css bug changes.
+ * read-me file adeded.
+ * languages folder added.
